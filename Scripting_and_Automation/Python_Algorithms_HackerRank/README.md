@@ -11,27 +11,19 @@ En ciberseguridad, la eficiencia del código separa un script útil de uno que b
 ### Especificaciones Técnicas
 - **Lenguaje:** Python 3.10+
 - **Enfoque:** Big O Efficiency ($O(n)$, $O(\log n)$), Type Hinting y Código Limpio.
-- **Plataforma de Validación:** [HackerRank Profile - Tu_Usuario]
+- **Plataforma de Validación:** [HackerRank Profile - @edy_serrano_a]
 
-###  Hoja de Ruta (Abril - Mayo 2026)
-| Fase | Categoría | Estatus |
-| :--- | :--- | :--- |
-| **01** | Basic Data Types & Lists | 🔄 En Progreso (Mañana: 4 de Abril) |
-| **02** | Strings & Regex Parsing | 📅 Programado |
-| **03** | Algorithmic Problem Solving | 📅 Programado |
-
----
 *Este repositorio es actualizado cada sábado durante mis sesiones de entrenamiento intensivo.*
 
 
 Python_Algorithms_HackerRank/
-├── 01_Basic_Data_Types/           <-- (Tu meta para mañana, 4 de abril)
+├── 01_Basic_Data_Types/ 
 │   ├── Finding_the_Runner_Up/
 │   │   ├── solution.py
 │   │   └── logic_explanation.md
 │   └── Nested_Lists_Analysis/
 │       ├── solution.py
 │       └── logic_explanation.md
-├── 02_Strings_Manipulation/       <-- (Sábado 11 de abril)
+├── 02_Strings_Manipulation/
 ├── 03_Sets_and_Logic/
-└── HackerRank_Certificates/       <-- (Aquí irán tus badges y certificados PDF)
+└── HackerRank_Certificates/
