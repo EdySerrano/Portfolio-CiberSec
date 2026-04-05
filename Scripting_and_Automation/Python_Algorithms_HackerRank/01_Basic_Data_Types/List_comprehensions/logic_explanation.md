@@ -23,6 +23,6 @@ How does this apply to my career in Security?
 
 This logic is fundamental when performing Log Correlation and Packet Analysis. Just as we filter coordinates based on a sum, security analysts often need to iterate through multi-dimensional datasets (e.g., Source IP, Destination Port, and Protocol) to filter out "noise" or known-safe traffic. Mastering list comprehensions allows for writing efficient scripts to identify specific attack patterns or anomalies within massive datasets without the overhead of multiple explicit loops.
 
-Solved on: 2026-04-05
+**Solved on:** 2026-04-05
 
 *Link to challenge: HackerRank* - [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
