@@ -30,10 +30,10 @@ def solve_challenge(x: int, y: int, z: int, n: int) -> list[list[int]]:
 if __name__ == '__main__':
     try:
         # Reading dimensions and the exclusion integer n
-        x = int(input())
-        y = int(input())
-        z = int(input())
-        n = int(input())
+        x = int(input()) # 1
+        y = int(input()) # 1
+        z = int(input()) # 1
+        n = int(input()) # 3
         
         result = solve_challenge(x, y, z, n)
         print(result)

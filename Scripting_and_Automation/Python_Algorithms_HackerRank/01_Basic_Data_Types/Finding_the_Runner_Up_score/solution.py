@@ -21,8 +21,8 @@ def solve_challenge(scores: list[int]) -> int:
 
 if __name__ == '__main__':
     try:
-        n = int(input())
-        arr = map(int, input().split())
+        n = int(input()) # 5
+        arr = map(int, input().split()) # 2 3 6 6 5
         
         # Convert map object to list for the function
         result = solve_challenge(list(arr))
