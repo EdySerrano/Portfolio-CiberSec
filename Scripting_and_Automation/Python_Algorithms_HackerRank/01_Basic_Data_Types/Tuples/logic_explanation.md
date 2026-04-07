@@ -25,4 +25,4 @@ Hashing is a cornerstone of Information Security. While Python's hash() function
 
 **Solved on:** 2026-04-07
 
-*Link to challenge: HackerRank* - [Tuples]()
+*Link to challenge: HackerRank* - [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
