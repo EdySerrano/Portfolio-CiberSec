@@ -15,7 +15,7 @@ En ciberseguridad, la eficiencia del código separa un script útil de uno que b
 
 *Este repositorio es actualizado cada sábado durante mis sesiones de entrenamiento intensivo.*
 
-
+```
 Python_Algorithms_HackerRank/
 ├── 01_Basic_Data_Types/ 
 │   ├── Finding_the_Runner_Up/
@@ -27,3 +27,4 @@ Python_Algorithms_HackerRank/
 ├── 02_Strings_Manipulation/
 ├── 03_Sets_and_Logic/
 └── HackerRank_Certificates/
+```
